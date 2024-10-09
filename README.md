@@ -19,4 +19,3 @@ Footer:
 Contains multiple sections with links to various pages and information about Amazon.
 The CSS code defines the styles for different elements in the webpage, such as the header, search bar, bottom panel, hero section, shop section, and footer.
 
-Note: The code references external resources such as font files and images. Make sure to have the necessary files in the specified locations or update the file paths accordingly for the website to display correctly.
